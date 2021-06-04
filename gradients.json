@@ -1532,5 +1532,10 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+      "name": "Pasaporte",
+      "colors": ["#cb997e", "#eddcd2", "#f0efeb", "#6b6b6b"]
     }
+]
 ]
